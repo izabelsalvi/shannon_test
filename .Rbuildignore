@@ -1,0 +1,8 @@
+^foo\.Rproj$
+^\.Rproj\.user$
+^foo\.Rcheck$
+^foo.*\.tar\.gz$
+^foo.*\.tgz$
+^LICENSE\.md$
+R/script.R
+^README\.Rmd$
